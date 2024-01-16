@@ -4,12 +4,10 @@ app = Flask(__name__)
 
 
 @app.route('/')
-def get_all_posts():
+def get_all():
     return render_template("index.html")
 
-@app.route('/')
-def get_about():
-    return render_template("portfolio-details.html")
+
 
 if __name__ == "__main__":
     app.run(debug=True)
