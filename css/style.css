@@ -1008,7 +1008,7 @@ section .container {
 }
 .img-port
 {
- float:right;
+ float:right!important;
  width:30%;
 }
 .pos_cen
