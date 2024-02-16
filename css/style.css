@@ -1014,8 +1014,9 @@ section .container {
 .pos_cen
 {
   
-  height:15%;
+   margin: 0 0 0 15px;
   top:20%;
+  
 }
   
 
