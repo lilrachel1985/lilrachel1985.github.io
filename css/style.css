@@ -1007,8 +1007,8 @@ section .container {
     padding: 0 2.75rem;
 }
  img {
-    max-width: 25%;
-    max-height:15%;
+    width: 700;
+    height:500;
     float: left;
   }
 
