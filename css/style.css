@@ -1013,7 +1013,12 @@ section .container {
  margin: 0 15px 0 0;
 }
 
-  
+  .text{
+       text-align: justify;
+       text-justify: inter-word;
+
+  }
+
 
 /*--------------------------------------------------------------
 # Contact
