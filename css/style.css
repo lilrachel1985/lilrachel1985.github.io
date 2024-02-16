@@ -1010,6 +1010,7 @@ section .container {
 {
  float:right!important;
  width:60%;
+ margin: 0 15px 0 0;
 }
 
   
