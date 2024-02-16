@@ -7,6 +7,10 @@ app = Flask(__name__)
 def get_all():
     return render_template("index.html")
 
+@app.route("/project1")
+def project1():
+    return render_template("project1.html")
+
 
 
 if __name__ == "__main__":
