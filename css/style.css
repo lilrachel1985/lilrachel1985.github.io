@@ -1014,7 +1014,7 @@ section .container {
 .pos_cen
 {
   position:absolute;
-  width:70%;
+  width:100%;
   height:15%;
   top:20%;
 }
