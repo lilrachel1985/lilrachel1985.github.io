@@ -1008,7 +1008,7 @@ section .container {
 }
 .img-port
 {
- float:right!important;
+ float:center!important;
  width:60%;
  margin: 15px 15px 15px 15px;
 }
