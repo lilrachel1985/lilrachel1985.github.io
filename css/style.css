@@ -1018,7 +1018,19 @@ section .container {
     padding-top: 20%;
     float: left;
   }
-
+.container{
+max-width: 720 px
+max-height:500 px
+}
+.py-5{
+  padding-top:3rem!important;
+  padding-bottom: 3rem!important;
+}
+.px-4 {
+    padding-right: 1.5rem!important;
+    padding-left: 1.5rem!important;
+}
+  
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
